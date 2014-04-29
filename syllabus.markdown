@@ -40,7 +40,11 @@ I’d like to emphasize the flipped design of the course.  Almost all of the con
 
 ## Assignments
 
+<<<<<<< HEAD
 **Cultural Immersion Activities: ** Like other cultural products, digital technologies require an immersive experience for effective learning.  After a vocabulary of about 300-400 words is developed, students can begin teaching themselves languages, and a roughly similar threshold applies to programming concepts and technologies.  Students in INLS 560 will immerse themselves in the culture surrounding programming in three ways:
+=======
+**Cultural Immersion Activities:** Like other cultural products, digital technologies require an immersive experience for effective learning.  After a vocabulary of about 300-400 words is developed, students can begin teaching themselves languages, and a roughly similar threshold applies to programming concepts and technologies.  Students in INLS 560 will immerse themselves in the culture surrounding programming in three ways:
+>>>>>>> b77e81d49f0bf0f945b5025ace5a79ac787b13b9
 
 * Weekly reading and sharing of technical blogs, news outlets, and question-answer sites
 
@@ -50,6 +54,7 @@ I’d like to emphasize the flipped design of the course.  Almost all of the con
 
 These experiences will combine with class assignments, readings, and in-class exercises to deepen students’ interest and facility with the concepts and skills we’ll learn.  Students who are unable to attend the in-person meetups may propose a comparable virtual community interaction in its place.
 
+<<<<<<< HEAD
 **In-Class Exercises:**  Almost every class will feature exercises that build on assigned readings.  These assignments can be completed and submitted during class, or students can submit them before midnight if they need extra time.  Exercises may involve pair programming and I will circle through class to resolve any confusion and share important concepts with the group.  Some of these exercises will involve code submission via Github, while others will be online exercises.
 
 **Readings & Jekyll Blog:  **Assigned readings, lectures, or exercises should be completed before the indicated class.  In most cases their content will be essential to completing the in-class exercises.  In technology we’ll often encounter terms or project names that we haven’t heard of before (myself included).  We’ll collaboratively author a Jekyll blog on Github, at first as an in-class exercise, and then as a way to keep explain these novel concepts and projects to each other and the community at large.
@@ -67,6 +72,27 @@ These experiences will combine with class assignments, readings, and in-class ex
 **Software:** The course will utilize free open source software almost exclusively.  For in-class exercises we’ll all use the same version of Ubuntu Linux to eliminate configuration and compatibility issues.  Students will be able to choose between installing Ubuntu on a VirtualBox virtual machine and installing the operating system on their own hardware.  VirtualBox is a free, open source project that allows Mac, Windows, and Linux systems to host other operating systems.  Detailed walkthroughs will be provided for all software installations and there will be time in class for troubleshooting.
 
 **Hardware:**  Students will need their own laptops.  Computers conforming to CCI guidelines should do fine.  Older hardware or netbooks might have trouble with virtualization, so please contact me if you’d prefer to set up a dual-boot system.  My 2010 MacBook Pro runs VirtualBox just fine, and a native installation on an old 2007 MacBook works great as well.  Contact me if you have any questions.
+=======
+**In-Class Exercises:**  Almost every class will feature exercises that build on assigned readings.  These assignments can be completed and submitted during class, or students can submit them before midnight if they need extra time.  Exercises may involve pair programming and I will circle through class to resolve any confusion and share important concepts with the group.  Some of these exercises will involve code submission via Github, while others will be online exercises.  In almost all cases you'll report your work or turn it in via Github.
+
+**Readings & Jekyll Blog:** Assigned readings, lectures, or exercises should be completed before the indicated class.  In most cases their content will be essential to completing the in-class exercises.  In technology we’ll often encounter terms or project names that we haven’t heard of before (myself included).  We’ll collaboratively author a Jekyll blog on Github, at first as an in-class exercise, and then as a way to keep explain these novel concepts and projects to each other and the community at large.
+
+**Google Plus Community:** We’ll use a private Google Plus community for helping each other with assignments and sharing interesting readings.  We’ll be able to utilize the Hangouts feature for informal discussion via video and for pair programming via screensharing.  
+
+**Final Project:** The semester will culminate in a fully developed program or system of the student’s creation.  The project should utilize one or more prominent open source library or framework and be fully documented.  Projects can be selected from examples to be provided by the instructor or the student can design their own with approval from the instructor.  Due to the interconnected nature of modern programming, projects that utilize code libraries from multiple students will be given extra credit and be eligible for an H grade (see below).  The Final Project is due at 11:59 pm on Saturday, May 3rd.  See below for my policy on late work (short version: don’t be late).
+
+**Extra Credit:** There will be infrequent opportunities to earn small amounts of extra credit.  This will usually involve doing things I might normally do, like deploying our class blog, tidying up code I write for this class for wider consumption, or helping moderate our forums.
+
+**Educational Privacy:** It is your FERPA right to keep your educational record, including enrollment in any specific class, private.  Assignments that require public submission (e.g our Github repository) may be completed pseudonymously if you would like to exercise this right. This choice will not affect your grade. 
+
+## Materials
+
+**Readings:** Most, if not all, materials used in this course will be drawn from freely available resources on the Internet.  This mimics the working environment of most programmers.  I’ll select readings from blogs, project documentation, and leading free textbooks and developer reference books Think Python, Learn Python the Hard Way, and Pro Git.
+
+**Software:** The course will utilize free open source software almost exclusively.  For in-class exercises, some exercises will be completed via a browser and for actual development we’ll all use the cloud based development environments provided for free by Nitrous.io. This provides a headless Ubuntu server instance and a graphical text editor. It is a professional quality tool that students can use in most real-world development tasks with little modification. 
+
+**Hardware:**  Students will need their own laptops able to run Chrome or other modern web browser compatible with nitrous.io. 
+>>>>>>> b77e81d49f0bf0f945b5025ace5a79ac787b13b9
 
 ## Grading
 
@@ -74,14 +100,21 @@ Weights of course components are as follows:
 
 * Cultural Immersion Activities: 10%
 
+<<<<<<< HEAD
 * Google Plus Community Participation: 10%
 
 * In-Class Exercises & Participation: 40%
+=======
+* In-Class and Google Plus Community Participation: 20%
+
+* In-Class Exercises: 30%
+>>>>>>> b77e81d49f0bf0f945b5025ace5a79ac787b13b9
 
 * Final Project: 40%
 
 Note that the SILS grading policy is based on the University Grading Policy. SILS uses the following graduate and undergraduate grading scales:
 
+<<<<<<< HEAD
 Graduate    Description     Undergraduate
 
 H       Clear excellence    A
@@ -93,14 +126,29 @@ L       Low passing     C+, C, C-
 F       Failed          D+, D, F
 
 For the purposes of this course, satisfactory performance (the ‘P’ grade) involves completing all of the assignments and showing personal mastery of the material.  Clear excellence (the ‘H’ grade) means participation in communities and effective collaboration with other programmers, both inside and outside our class.
+=======
+
+| Graduate         |           | Undergraduate  |
+| ------------- |:-------------:| -----:|
+| H      | Clear excellence | A |
+| P      | Entirely satisfactory      |   A-, B+, B, B- |
+| L | Low Passing      |    C+, C, C- |
+|F     |  Failed   |       D+, D, F|
+
+For the purposes of this course, satisfactory performance (the ‘P’ grade) involves completing all of the assignments and showing personal mastery of the material.  Clear excellence (the ‘H’ grade) means participation in communities and effective collaboration with other programmers, either inside or outside our class.
+>>>>>>> b77e81d49f0bf0f945b5025ace5a79ac787b13b9
 
 ## Student and Instructor Expectations
 
 ### Honor Code
 
+<<<<<<< HEAD
 Students should familiarize themselves with the University of North Carolina at Chapel Hill 
 
 Honor Code which is described in University publications.  For this course in particular, collaboration with other students will be expected in many instances, but work that is assigned to you as an individual should be yours alone.  In group projects a combination of git commit histories, writeups and/or project documentation should attribute individual and collaborative work.
+=======
+Students should familiarize themselves with the University of North Carolina at Chapel Hill Honor Code which is described in University publications.  For this course in particular, collaboration with other students will be expected in many instances, but work that is assigned to you as an individual should be yours alone.  In group projects a combination of git commit histories, writeups and/or project documentation should attribute individual and collaborative work.
+>>>>>>> b77e81d49f0bf0f945b5025ace5a79ac787b13b9
 
 ### Attendance & Attention
 
@@ -116,4 +164,8 @@ I take the happiness and wellbeing of all students very seriously and share the 
 
 ## Acknowledgements
 
+<<<<<<< HEAD
 This course and its content has been deeply influenced by my interactions with and the input of others.  I’d like to thank Hilmar Lapp, Stephanie Haas, Eric Martindale, Brian Marks, Greg Wilson, John D. Martin III, and Alan Dipert for a wide range of help.
+=======
+This course and its content has been deeply influenced by my interactions with and the input of others.  I’d like to thank Hilmar Lapp, Stephanie Haas, Brian Marks, Greg Wilson, John D. Martin III, and Alan Dipert for a wide range of help.
+>>>>>>> b77e81d49f0bf0f945b5025ace5a79ac787b13b9

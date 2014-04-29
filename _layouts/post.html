@@ -5,6 +5,15 @@ layout: default
 <h2>{{ page.title }}</h2>
 
 <p>
+<<<<<<< HEAD
+=======
+{% if (page.categories contains "assignment") and (page.author.prof == true) %}
+
+<strong>Due {{ page.date | date: "%x" }} at {{ page.date | date: "%I:%M %p" }} </strong>
+
+{% else %}
+
+>>>>>>> b77e81d49f0bf0f945b5025ace5a79ac787b13b9
 by 
 {% assign authorCount = page.author | size %}
 {% if authorCount == 0 %}
@@ -25,6 +34,10 @@ by
         {% endif %}
     {% endfor %}
 {% endif %}
+<<<<<<< HEAD
+=======
+{% endif %}
+>>>>>>> b77e81d49f0bf0f945b5025ace5a79ac787b13b9
 </p> <!-- /.byline -->
 
 <p class="meta">{{ page.date | date_to_string }}</p>
